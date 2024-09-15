@@ -80,3 +80,6 @@ Caching Strategy
 - Redis is used for caching due to its speed and efficiency in handling key-value data. This improves the system's performance by reducing the need to recompute results for repeated queries.
 ## Background Task
 - A background thread is initiated at server start to scrape news articles periodically. This keeps the document database updated with the latest information.
+## Screenshots of application :
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/16870fd5-6eec-4668-b914-727407bb4360">
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/0f7a00c4-3b40-44bf-abe8-27d354da0240">
