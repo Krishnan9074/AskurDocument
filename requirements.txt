@@ -1,0 +1,9 @@
+pypdf
+langchain
+chromadb # Vector storage
+pytest
+boto3
+flask
+flask-limiter
+redis
+# ... (other existing requirements)
