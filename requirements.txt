@@ -6,4 +6,7 @@ boto3
 flask
 flask-limiter
 redis
-# ... (other existing requirements)
+newspaper3k
+fpdf
+feedparser
+langchain-community
