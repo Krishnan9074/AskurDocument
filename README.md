@@ -74,6 +74,8 @@ python app.py
 ```bash
 docker-compose up --build
 ```
+## Citations 
+https://github.com/pixegami/rag-tutorial-v2
 ## Logging and Monitoring
 - API calls and inference times are logged for monitoring and debugging purposes.
 Caching Strategy
